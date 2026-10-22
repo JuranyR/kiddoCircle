@@ -45,7 +45,12 @@ const RouterDom = () => {
   // }, []);
 
   return (
-      <BrowserRouter>
+      <BrowserRouter
+          basename={new URL(
+              process.env.PUBLIC_URL || "/",
+              window.location.origin
+          ).pathname}
+      >
           <Routes>
               <Route path="/" element={<NavBar />}>
                   <Route path="/" element={<Home />} />
