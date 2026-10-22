@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/kiddoCircle/static/css/main.d558a04e.css",
+    "main.js": "/kiddoCircle/static/js/main.96d0b3a4.js",
+    "static/media/image login desktop.png": "/kiddoCircle/static/media/image login desktop.ffa3584e689f6d3ceed1.png",
+    "static/media/carouselImage4.png": "/kiddoCircle/static/media/carouselImage4.3d8579adb9f388073164.png",
+    "static/media/image login mobile.png": "/kiddoCircle/static/media/image login mobile.de4e3e3cb7378c8e8cbe.png",
+    "static/media/ropa.jpg": "/kiddoCircle/static/media/ropa.f268c5730252187d6a0a.jpg",
+    "static/media/carouselImage3.png": "/kiddoCircle/static/media/carouselImage3.b23b20dc9aae6d1b8393.png",
+    "static/media/carouselImage2.jpg": "/kiddoCircle/static/media/carouselImage2.fc2877564441d36096c0.jpg",
+    "static/media/cosas-bebes.png": "/kiddoCircle/static/media/cosas-bebes.e29c9b2590da78a66d92.png",
+    "static/media/juguetes.jpg": "/kiddoCircle/static/media/juguetes.3e90e8ff4ed92d3b2a56.jpg",
+    "static/media/coche.png": "/kiddoCircle/static/media/coche.bb5dd81227aadba7a6d4.png",
+    "static/media/carrito.png": "/kiddoCircle/static/media/carrito.229eaa5e1ce548f407d6.png",
+    "static/media/articulos.jpg": "/kiddoCircle/static/media/articulos.fac5c52c3b1b5fb5a21e.jpg",
+    "static/media/avatar.png": "/kiddoCircle/static/media/avatar.180414e9e7fec5ac07c6.png",
+    "static/media/recarga.jpg": "/kiddoCircle/static/media/recarga.b51d8f070182285e3081.jpg",
+    "static/media/shop.png": "/kiddoCircle/static/media/shop.9e779126bb87bba62745.png",
+    "static/media/gradientBackground.png": "/kiddoCircle/static/media/gradientBackground.df3465c3e7dc5d62f548.png",
+    "static/media/revicons.eot": "/kiddoCircle/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/kiddoCircle/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/kiddoCircle/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/smile_face.svg": "/kiddoCircle/static/media/smile_face.98cc93302570c0196081d8d097ef4b40.svg",
+    "static/media/filterIcon.svg": "/kiddoCircle/static/media/filterIcon.35d25e082a00826451990beef8a10d94.svg",
+    "static/media/x_pink.svg": "/kiddoCircle/static/media/x_pink.d689ba0ff1b80ce5f50cdba06fc90a5b.svg",
+    "index.html": "/kiddoCircle/index.html",
+    "static/media/eye_mini.svg": "/kiddoCircle/static/media/eye_mini.38e25e2ca0a75015399fc745d8f918c9.svg",
+    "static/media/heart_mini.svg": "/kiddoCircle/static/media/heart_mini.2017008889c1ae9ee3f159e3fe4c9c59.svg",
+    "static/media/plus_white.svg": "/kiddoCircle/static/media/plus_white.207e9b372cae3efc90946a625a984685.svg",
+    "static/media/pink_arrow_up.svg": "/kiddoCircle/static/media/pink_arrow_up.31ba6e7ed62e76824431d02006ac65ff.svg",
+    "static/media/white_arrow_up.svg": "/kiddoCircle/static/media/white_arrow_up.75f313f205e4907e1755c274b7fddd87.svg",
+    "main.d558a04e.css.map": "/kiddoCircle/static/css/main.d558a04e.css.map",
+    "main.96d0b3a4.js.map": "/kiddoCircle/static/js/main.96d0b3a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d558a04e.css",
+    "static/js/main.96d0b3a4.js"
+  ]
+}
